@@ -1,0 +1,10 @@
+{ 
+    "author": "Sayed Ibrahim Hashimi", 
+    "classifications": [ "Web" ], 
+    "name": "Sayed Starter Web", 
+    "identity": "Zarlo.StarterWeb",
+    "shortName": "zarloweb",  
+    "tags": { "language": "C#" }, 
+    "sourceName": "Zarlo.StarterWeb",
+    "preferNameDirectory" : "true" 
+}
